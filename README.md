@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @owaiss259
 - 👀 I’m interested in software developing
 - 🌱 I’m currently learning master of computer application
-- 💞️ I’m looking to collaborate on gihub
+- 💞️ I’m looking to collaborate on making interactive windows based software
 - 📫 How to reach me owaiss259@gmail.com
 
 <!---
